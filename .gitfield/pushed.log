@@ -11,3 +11,7 @@
   Diff Summary:
      .gitfield/radicle.sigil.md | 67 ++++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 67 insertions(+)
+[2025-06-16T01:23:50Z] Forgejo: https://remember.thefoldwithin.earth/mrhavens/the-envy-nexus, Branch=master, Commit=e14e007
+  Diff Summary:
+     .gitfield/remember.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
