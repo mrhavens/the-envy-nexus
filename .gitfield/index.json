@@ -1,0 +1,23 @@
+{
+  "repository": "the-envy-nexus",
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/the-envy-nexus",
+  "remotes": [
+    "https://github.com/mrhavens/the-envy-nexus",
+    "https://gitlab.com/mrhavens/the-envy-nexus",
+    "https://bitbucket.org/thefoldwithin/the-envy-nexus",
+    "https://remember.thefoldwithin.earth/mrhavens/the-envy-nexus",
+    "https://codeberg.org/mrhavens/the-envy-nexus",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "commit": "e14e007",
+  "tree_hash": "2662755d788235a343f5df5bcca39e2e8bbdf7e5",
+  "timestamp": "2025-06-16T01:22:57Z",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+
+  ]
+}
