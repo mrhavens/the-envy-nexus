@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "the-envy-nexus",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/the-envy-nexus",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/the-envy-nexus",
+  "sameAs": [
+    "https://github.com/mrhavens/the-envy-nexus",
+    "https://gitlab.com/mrhavens/the-envy-nexus",
+    "https://bitbucket.org/thefoldwithin/the-envy-nexus",
+    "https://remember.thefoldwithin.earth/mrhavens/the-envy-nexus",
+    "https://codeberg.org/mrhavens/the-envy-nexus",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-16T01:22:57Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+
+  ]
+}
